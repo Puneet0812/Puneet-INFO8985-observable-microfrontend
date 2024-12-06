@@ -13,7 +13,7 @@ Today's case is for an open source project I am planning during the holidays. Ra
 
 Cloudflare and Turso have a libsqlite database that can work with pages. Libsqlite works with all of the major frameworks like sqlite. During the last CAPSTONE session some students implemented with Supabase. Supabase is a lot like my project in that it is a compilation of open source standards like postgresql. I decided to include supabase as my persistence layer in my holiday project.
 
-The 3 pieces that I am joining are knative, a s3 web server and supabase. The case is to look at my backlog for this project. Make a recommendation for deployment in the format of a uml deployment diagram. Explain your recommendations in the context of what you have learned about devops and open telemetry. 
+The 3 pieces that I am joining are [knative](https://knative.dev/docs/), a [s3 web server](https://github.com/e2fyi/minio-web) and [supabase](https://supabase.com/). The case is to look at my backlog for this project. Make a recommendation for deployment in the format of a uml deployment diagram. Explain your recommendations in the context of what you have learned about devops and open telemetry. 
 
 ## Marking scheme:
 
